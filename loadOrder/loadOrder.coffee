@@ -1,0 +1,9 @@
+@loadOrder =
+  FILES: {}
+  FULL_NAME: 'imkost:load-order'
+  SHORT_NAME: 'load-order'
+  CONFIG_FULL_NAME: 'imkost:load-order-config'
+  CONFIG_SHORT_NAME: 'load-order-config'
+  CONFIG_PATH: 'packages/load-order-config'
+  CONFIG_VERSION: '0.2.0'
+  VARIABLE_NAME: 'loadOrder'
