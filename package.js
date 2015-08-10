@@ -1,6 +1,6 @@
 Package.describe({
   name          : 'imkost:load-order',
-  version       : '0.2.0',
+  version       : '0.3.0',
   summary       : 'Allows to create your own file load order rules',
   git           : 'https://github.com/imkost/load-order',
   documentation : 'README.md'
