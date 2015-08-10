@@ -1,7 +1,7 @@
 loadOrder.FILES['load-order-config.js'] = '''
   loadOrder.config = {
     // Where your application lives.
-    // Must be inside `private` directory.
+    // IMPORTANT: Must be inside `private` directory.
     sourceFolder: 'private/app',
 
     // Where your application will be "compiled" to.
