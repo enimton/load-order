@@ -18,8 +18,8 @@ myapp/
     load-order-config/
       load-order-config.coffee  <-- Write rules here (CoffeeScript)
       load-order-config.js      <-- Write rules here (JavaScript)
-      load-order.min.js
-      package.js
+      load-order.min.js         <-- Don't touch this file
+      package.js                <-- Don't touch this file
 ```
 
 ## Configuration Syntax
