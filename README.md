@@ -1,3 +1,7 @@
+## Load Order is DEPRECTATED
+
+I switched to React + Webpack + ES6 modules. ES6 modules organize JS load order and React + Webpack allows to organize CSS.
+
 ## Load Order
 
 Create your own file load order rules for Meteor.
